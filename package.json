@@ -7,6 +7,6 @@
   "author": "Brian Gershon",
   "license": "ISC",
   "dependencies": {
-    "@briangershon/npm-package-minimal": "^1.0.3"
+    "@briangershon/npm-package-minimal": "^1.0.4"
   }
 }
