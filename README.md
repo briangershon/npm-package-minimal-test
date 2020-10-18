@@ -1,6 +1,6 @@
 # npm-package-minimal-test
 
-A tiny app to test @briangershon/npm-package-minimal template.
+A tiny app to test [@briangershon/npm-package-minimal](https://github.com/briangershon/npm-package-minimal) template.
 
 ## Run
 
