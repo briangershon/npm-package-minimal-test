@@ -5,9 +5,15 @@
   "main": "server.js",
   "keywords": [],
   "author": "Brian Gershon",
-  "type": "module",
   "license": "ISC",
+  "scripts": {
+    "start:cjs": "node server-cjs.js",
+    "start:esm": "node server-esm.mjs"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
   "dependencies": {
-    "@briangershon/npm-package-minimal": "^2.0.0"
+    "@briangershon/npm-package-minimal": "^3.0.1"
   }
 }
