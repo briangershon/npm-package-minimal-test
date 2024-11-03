@@ -7,11 +7,10 @@
   "author": "Brian Gershon",
   "license": "ISC",
   "scripts": {
-    "start:cjs": "node server-cjs.js",
-    "start:esm": "node server-esm.mjs"
+    "start": "node server.mjs"
   },
   "engines": {
-    "node": ">=14.x"
+    "node": ">=20.x"
   },
   "dependencies": {
     "@briangershon/npm-package-minimal": "^3.0.1"
