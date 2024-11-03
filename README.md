@@ -16,4 +16,7 @@ Install:
 
     npm install
     npm update  # to bring in latest package
+
+Run:
+
     npm start
